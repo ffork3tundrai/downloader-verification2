@@ -1,2 +1,3 @@
 # Project Update
 Draft onboarding steps
+Implement new end-to-end flow for checkout process
